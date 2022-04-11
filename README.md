@@ -1,1 +1,2 @@
-# retrieval-generation-tutorial
+# Tutorial for Retrieval Augmented Text Generation
+
