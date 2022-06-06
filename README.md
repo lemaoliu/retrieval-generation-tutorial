@@ -84,6 +84,8 @@ Tencent AI Lab
 
 <div class="col-sm text-center">
 
+<img align="left" src="shumingshi.jpg" width=150 height=180 alt="a photo" style="padding-right:10px">
+
 <div class="thumbnail-wrapper">![Shuming Shi](assets/images/shumingshi.jpg)</div>
 
 ##### [Shuming Shi](https://scholar.google.co.jp/citations?user=Lg31AKMAAAAJ&hl=en)
