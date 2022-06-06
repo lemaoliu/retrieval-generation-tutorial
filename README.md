@@ -84,15 +84,10 @@ Tencent AI Lab
 
 <div class="col-sm text-center">
 
-<img align="left" src="assets/images/shumingshi.jpg" width=100 alt="a photo" style="padding-right:10px">
-
-<div class="thumbnail-wrapper">![Shuming Shi](assets/images/shumingshi.jpg)</div>
-
-##### [Shuming Shi](https://scholar.google.co.jp/citations?user=Lg31AKMAAAAJ&hl=en)
-
-Tencent AI Lab
-
-[](mailto:shumingshi@tencent.com)</div>
+<figure>
+<img align="left" src="assets/images/shumingshi.jpg" width=140 alt="a photo" style="padding-right:10px">
+<figcaption align = "center"> [Shuming Shi](https://scholar.google.co.jp/citations?user=Lg31AKMAAAAJ&hl=en) </figcaption>
+</figure>
 
 </div>
 
