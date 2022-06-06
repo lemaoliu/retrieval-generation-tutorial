@@ -55,21 +55,21 @@ Recently, retrieval-augmented text generation has achieved state-of-the-art perf
 <div class="col-sm text-center">
 
 
-##### [Deng Cai](https://jcyk.github.io/)
+##### [Deng Cai (The Chinese University of Hong Kong) ](https://jcyk.github.io/)
 
-The Chinese University of Hong Kong
 
-##### [Yan Wang](https://libertywing.github.io/yanwang.github.io/)
 
-Tencent AI Lab
+##### [Yan Wang (Tencent AI Lab) ](https://libertywing.github.io/yanwang.github.io/)
 
-##### [Lemao Liu](https://lemaoliu.github.io/homepage/)
 
-Tencent AI Lab
 
-##### [Shuming Shi](https://scholar.google.co.jp/citations?user=Lg31AKMAAAAJ&hl=en)
+##### [Lemao Liu (Tencent AI Lab) ](https://lemaoliu.github.io/homepage/)
 
-Tencent AI Lab
+
+
+##### [Shuming Shi (Tencent AI Lab) ](https://scholar.google.co.jp/citations?user=Lg31AKMAAAAJ&hl=en)
+
+
 
 </div>
 
