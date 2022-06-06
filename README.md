@@ -4,7 +4,7 @@
 
 # Recent Advances in Retrieval-Augmented Text Generation
 
-#### 90-Minute Tutorial @ [IJCAI Conference 2022](https://ijcai-22.org/tutorials/).
+#### 90-Minute Tutorial @ [IJCAI Conference 2022](https://ijcai-22.org/tutorials/). Please see [website](https://lemaoliu.github.io/retrieval-generation-tutorial) for more details.  
 
 </div>
 
