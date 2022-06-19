@@ -30,13 +30,13 @@ Recently, retrieval-augmented text generation has achieved state-of-the-art perf
 
 ### Slides
 
-[Part 1: Introduction to Retrieval-Augmented Text Generation](assets/slides/Part-1.pdf)
+[Part 1: Introduction and Retrieval-Augmented LM](assets/slides/retrieval4lm.pdf)
 
-[Part 2: Retrieval-Augmented Dialogue Generation](assets/slides/Part-2.pdf)
+[Part 2: Retrieval-Augmented Dialogue Generation](assets/slides/retrieval4dialogue.pdf)
 
-[Part 3: Translation Memory augmented Neural Machine Translation](assets/slides/Part-3.pdf)
+[Part 3: Translation Memory augmented Neural Machine Translation](assets/slides/retrieval4nmt.pdf)
 
-[Part 4: Translation Memory augmented Neural Machine Translation](assets/slides/Part-4.pdf)
+
 
 </div>
 
